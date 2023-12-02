@@ -1,0 +1,24 @@
+{
+  "about": [
+    {
+      "title": "Planning",
+      "description": "I design applications from the beginning of the process, using wireframes, ERD's, and more",
+      "icon": "design_services"
+    },
+    {
+      "title": "Design",
+      "description": "I make visually-appealing applications.",
+      "icon": "palette"
+    },
+    {
+      "title": "Maintenance",
+      "description": "Upkeep of application functionality and design.",
+      "icon": "settings"
+    },
+    {
+      "title": "Deployment",
+      "description": "I can take your application and deploy it live for the world to see!",
+      "icon": "rocket_launch"
+    }
+  ]
+}
