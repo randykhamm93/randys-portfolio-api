@@ -20,5 +20,21 @@
       "description": "I can take your application and deploy it live for the world to see!",
       "icon": "rocket_launch"
     }
+  ],
+  "contact": [
+    {
+      "address": "Prospect, TN",
+      "phone": "931-371-4807",
+      "email": "randykhamm@gmail.com",
+      "longitude": -87.003,
+      "latitude": 35.0293
+    }
+  ],
+  "hero": [
+    {
+      "title": "Hi, I'm Randy!",
+      "subtitle": " a full-stack software developer",
+      "description": "I create high quality solutions to solve real-world problems"
+    }
   ]
 }
